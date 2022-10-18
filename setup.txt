@@ -1,0 +1,6 @@
+HOW TO RUN THIS CURRENT APPLICATION
+
+0. DELETE THE data.db first root directory using ===>  rm .\code\data.db
+1. RUN THE create_tables.py first using in the root directory ==> python .\code\create_tables.py
+2. RUN THE app.py also in the root directory python .\code\app.py
+
